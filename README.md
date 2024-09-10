@@ -1,9 +1,8 @@
 <img align="right" height="450" src="https://avatars.githubusercontent.com/NikCeb" />
-
+---------
 <div>
     <p>Hosting/SaaS</p>
 </div>
-###
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
@@ -11,10 +10,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
+---------
 <div>
     <p>DESIGN</p>
 </div>
-###
+
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"
@@ -26,10 +26,10 @@
         alt="canva logo" />
 </div>
 
+---------
 <div>
     <p>CI/CD VCS</p>
 </div>
-###
 
 <div align="left">
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
@@ -39,10 +39,10 @@
     <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
 </div>
 
+---------
 <div>
     <p>DATABASES / ORM</p>
 </div>
-###
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"
@@ -59,10 +59,10 @@
         alt="sqlite logo" />
 </div>
 
+---------
 <div>
     <p>FRAMEWORKS, PLATFORMS & LIBRARIES</p>
 </div>
-###
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"
@@ -83,10 +83,11 @@
     <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
 </div>
 
+---------
 <div>
     <p>LANGUAGES</p>
 </div>
-###
+
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
@@ -108,29 +109,28 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
-###
+---------
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name
+    is Nikolai Ceballos
 
 <br clear="both">
 
 <h2 align="left">
-
-    Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name
-    is Nikolai Ceballos
-    <p>* 🌍  I'm based in Cagayan De Oro City</p>
-    <p>* 🧠  I'm currently expanding my horizon on the field</p>
-    <p>* ⚡  I'm currenlt a web developer</p>
+    * 🌍  I'm based in Cagayan De Oro City
+    * 🧠  I'm currently expanding my horizon on the field
+    * ⚡  I'm currenlt a web developer
 
 </h2>
 
-###
+---------
 
 <img src="https://raw.githubusercontent.com/NikCeb/NikCeb/output/snake.svg" alt="Snake animation" />
 
-###
+---------
 
 <div align="left">
     <a href="https://www.linkedin.com/in/nikceballos/" align="left"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
         height="40" alt="linkedin logo" /></a>
 </div>
 
-###
+---------
