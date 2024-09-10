@@ -1,10 +1,10 @@
-<img align="right" height="450" src="https://avatars.githubusercontent.com/NikCeb" />
+
 
 # 💫 About Me:
 🌱 I'm a junior web developer.<br>🔭 I'm currently expanding my horizon in my field.<br>👯 I’m looking to for collaborations to further gain experience.<br>
 
+<img align="right" height="450" src="https://avatars.githubusercontent.com/NikCeb" />
 
----------
 <div>
     <p>Hosting/SaaS</p>
 </div>
