@@ -3,6 +3,7 @@
 # 💫 About Me:
 🌱 I'm a junior web developer.<br>🔭 I'm currently expanding my horizon in my field.<br>👯 I’m looking to for collaborations to further gain experience.<br>
 
+
 ---------
 <div>
     <p>Hosting/SaaS</p>
@@ -113,18 +114,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
----------
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name
-    is Nikolai Ceballos
-
-<br clear="both">
-
-<h2 align="left">
-    * 🌍  I'm based in Cagayan De Oro City
-    * 🧠  I'm currently expanding my horizon on the field
-    * ⚡  I'm currenlt a web developer
-
-</h2>
 
 ---------
 
